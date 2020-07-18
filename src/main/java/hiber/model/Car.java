@@ -24,7 +24,7 @@ public class Car {
     }
 
     public Car(int series, String name) {
-        this.series=series;
+        this.series = series;
         this.name = name;
     }
 
